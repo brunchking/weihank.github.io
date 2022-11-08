@@ -1,0 +1,22 @@
+.text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 445px;
+}
+
+.text p {
+    border: 2px solid rgb(171, 173, 1);
+    padding: 20px;
+    width: 40px;
+    color: white;
+    margin: auto;
+    font-size: 30px;
+    position: relative;
+}
+
+.back {
+    background-image: url(fujisan1.png);
+    background-size: 100%;
+    background-color: black;
+}
